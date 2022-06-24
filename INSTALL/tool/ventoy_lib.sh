@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#Ventoy partition 32MB
+#Ventoy partition 32MB test by K 20220624
 VENTOY_PART_SIZE=33554432
 VENTOY_PART_SIZE_MB=32
 VENTOY_SECTOR_SIZE=512
